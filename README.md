@@ -1,5 +1,7 @@
 # Mentorship Pairing Program for Industrial Engineering Club
 
+Due to privacy and sensitive information reasons, the code output will not be shown. 
+
 ## Project Overview
 This project automates the process of pairing mentors and mentees for the Industrial Engineering Club using data from forms filled out by both mentors and mentees. The goal is to create compatible matches based on interests, career goals, and personal preferences. To achieve this, Natural Language Processing (NLP) techniques were employed to clean and standardize the data, ensuring accurate matching.
 
